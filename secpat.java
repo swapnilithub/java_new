@@ -4,8 +4,8 @@ public class secpat {
      {
                 for(int j=1;j<=4;j++){
                     System.out.println("*****");
-            }
-            System.out.println();
+            }System.out.println();
+            
         }
     }
 }
