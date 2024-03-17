@@ -12,6 +12,7 @@ public class newprgm {
 		    else 
 		    System.out.println(3 - N%3);
 		}
+        sc.close();
 	}
 
 
