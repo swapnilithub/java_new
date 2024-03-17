@@ -16,6 +16,7 @@ public class diifilvlarrray {
                     System.out.println("NO");
                 }
             }
+            scanner.close();
         }
     }
 
