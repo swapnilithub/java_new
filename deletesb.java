@@ -4,5 +4,7 @@ public class deletesb {
         System.out.println(del);
         del.delete(0, 2);
         System.out.println(del);
+        del.append("madharchod");
+        System.out.println(del);
     }
 }
