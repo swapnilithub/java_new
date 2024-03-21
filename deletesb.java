@@ -6,5 +6,7 @@ public class deletesb {
         System.out.println(del);
         del.append("madharchod");
         System.out.println(del);
+        
+        System.out.println(del.length());
     }
 }
